@@ -124,3 +124,19 @@ Kemenag
 Maka pernahkah kamu melihat orang yang menjadikan hawa nafsunya sebagai tuhannya dan Allah membiarkannya sesat dengan sepengetahuan-Nya, dan Allah telah mengunci pendengaran dan hatinya serta meletakkan tutup atas penglihatannya? Maka siapa yang mampu memberinya petunjuk setelah Allah (membiarkannya sesat?) Mengapa kamu tidak mengambil pelajaran?
 
 ###### all above has been corrected into verses table in id.db at 22:08 20170129 #########
+==================================================
+Android
+16 67 minimuman 
+changed to minuman
+
+==================================================
+Android
+30 41 already corrected before
+
+==================================================
+Android
+90 17 kemudian dia (tidak pula) termasuk orang-orang yang beriman, dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang
+Corrected
+kemudian dia termasuk orang-orang yang beriman, dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang
+
+###### all above has been corrected into verses table in id.db at 08:30 20170131 #########
