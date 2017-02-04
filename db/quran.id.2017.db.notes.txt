@@ -1,0 +1,17 @@
+The file quran.id.2017.db contains indonesian translation of the Holy Qur'an based on the texts provided by the Indonesian Ministry of Religious Affair (Kemenag 2017). The "Kemenag 2017" translation was part of the quran project launched by the indonesian government at http://quran.kemenag.go.id.
+
+The texts have been compared to the older translation and on average 84.2% of each ayah translation text strings are matched between the old and new versions. Those ayahs having less than 50% matches have been checked for the correctnes of translation.
+
+In addition, the following edits have been performed:
+* removing spurious " )" string scattered in the translation texts
+* changing the following words to better spellings:
+rida -> ridha
+salat -> shalat
+saleh -> shalih
+zalim -> zhalim
+zikir -> dzikir
+Talut -> Thalut
+Samud -> Tsamud
+* adding a note to 5:51 to reflect broader meaning of the arabic word "awliya", [wali, pelindung atau pemimpin] is inserted.
+* adding a note to 55:6 to reflect broader meaning of the arabic word "najm", [bintang-bintang] is inserted.
+
