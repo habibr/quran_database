@@ -3,8 +3,8 @@ The file quran.id.2017.db contains indonesian translation of the Holy Qur'an bas
 The texts have been compared to the older translation and on average 84.2% of each ayah translation text strings are matched between the old and new versions. Those ayahs having less than 50% matches have been checked for the correctnes of translation.
 
 In addition, the following edits have been performed:
-* removing spurious " )" string scattered in the translation texts
-* changing the following words to better spellings:
+* removed spurious " )" string scattered in the translation texts
+* changed the following words to better spellings:
 rida -> ridha
 salat -> shalat
 saleh -> shalih
@@ -12,6 +12,14 @@ zalim -> zhalim
 zikir -> dzikir
 Talut -> Thalut
 Samud -> Tsamud
-* adding a note to 5:51 to reflect broader meaning of the arabic word "awliya", [wali, pelindung atau pemimpin] is inserted.
-* adding a note to 55:6 to reflect broader meaning of the arabic word "najm", [bintang-bintang] is inserted.
-
+Lut -> Luth
+* changed the following words for better spelling consistency:
+Ad_Zikr -> Adz-Dzikr
+Az-Zikr -> Adz-Dzikr
+Laul Mahfuz -> Lauh Mahfuzh
+Lauh Mahfuz -> Lauh Mahfuzh
+*changed the following errors:
+Alyasa' -> Ilyasa'
+tenggelamkam -> tenggelamkan
+* added a note to 5:51 to reflect broader meaning of the arabic word "awliya", [wali, pelindung atau pemimpin] is inserted.
+* added a note to 55:6 to reflect broader meaning of the arabic word "najm", [atau bintang-bintang] is inserted.
